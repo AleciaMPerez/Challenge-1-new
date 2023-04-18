@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,11 +16,13 @@ header {
     color: #ffffff;
 }
 
+/*Horiseon*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*header navigation bar*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/*main content*/
 .hero {
     height: 800px;
     width: 100%;
@@ -54,6 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*main content image*/
 
 .float-left {
     float: left;
@@ -82,18 +87,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Right side body*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*right side header 3*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 
 }
-
+/* Right side image*/
 .benefit img {
     display: block;
     margin: 10px auto;
@@ -112,13 +117,13 @@ p {
 
 }
 
-/*image*/
+/*main image*/
 
 .main img {
     max-height: 200px;
 }
 
-/*header 2*/
+/*main header 2*/
 
 .main h2 {
     margin-bottom: 20px;
@@ -126,7 +131,7 @@ p {
 }
 
 
-/*Footer portion*/
+/*footer portion*/
 
 footer {
     padding: 30px;
