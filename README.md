@@ -15,7 +15,11 @@ I followed these steps each time I made a significant change to the code.
 
 ## Usage
 
-Clone the repository from GitHub to your desktop. You can do this by selecting the green code button and then copy the HTTPS code. Next, you need to open GitBash and enter the folder you would like the repo saved to. Type "git clone" and paste the HTTPS code after. Press enter. You have now saved the repository for GitHub. Type "code ." to open the repository in Visual Studios.
+Clone the repository from GitHub to your desktop. You can do this by selecting the green code button and then copy the HTTPS code. 
+
+![GreenCodeButton](/assets/images/HoriseonPathwayCropped.png)
+
+Next, you need to open GitBash and enter the folder you would like the repo saved to. Type "git clone" and paste the HTTPS code after. Press enter. You have now saved the repository for GitHub. Type "code ." to open the repository in Visual Studios.
 
 At this point, you may select to view the HTML code by selecting the index.html file, or you can view the CSS code by entering the assets folder, then the css folder, and then select style.css.
 
