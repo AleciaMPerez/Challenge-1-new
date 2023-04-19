@@ -25,6 +25,8 @@ At this point, you may select to view the HTML code by selecting the index.html 
 ## Credits
 
 AskBCS
-UNCC Tutor - Patrick 
 
+UNCC Tutor - Patrick
+
+Starter code - https://github.com/coding-boot-camp/urban-octo-telegram 
 
